@@ -24,12 +24,14 @@ body {
 
 
 .profile-card__avatar {
+  display: block;
   width: 140px;
   height: 140px;
+  margin: 0 auto 20px auto;
   border-radius: 50%;
   object-fit: cover;
-  border: 4px solid #4fd1c5;
-  margin-bottom: 20px;
+  border: 4px solid #4fd1c5; 
+ 
 }
 
 
